@@ -5,7 +5,8 @@
   "main": "challenge_01.js",
   "scripts": {
     "c01": "nodemon challenge_01.js",
-    "c02": "nodemon challenge_02.js"
+    "c02": "nodemon challenge_02.js",
+    "c03": "nodemon challenge_03.js"
   },
   "type": "module",
   "repository": {
